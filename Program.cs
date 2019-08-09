@@ -3,8 +3,6 @@
  * User: adam.moseman
  * Date: 2/1/2019
  * Time: 2:28 AM
- * 
- * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
 using System;
 
